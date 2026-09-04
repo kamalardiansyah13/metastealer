@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>MetaSteal.Core</RootNamespace>
+    <AssemblyName>MetaSteal.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
